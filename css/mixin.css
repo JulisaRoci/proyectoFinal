@@ -1,0 +1,24 @@
+.cardsBoton {
+  width: 300px;
+}
+
+button, .cardsBoton {
+  background-color: #ffd803;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.btn {
+  background-color: #ffd803;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+button:hover, .btn:hover, .cardsBoton:hover {
+  background-color: #272343;
+  color: white;
+}
+
+/*# sourceMappingURL=mixin.css.map */
